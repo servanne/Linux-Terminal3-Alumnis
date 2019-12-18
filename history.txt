@@ -1,0 +1,4 @@
+  500  grep -c -i "France.*2019.*PHP" /Users/servanne/Nextcloud/SERY/Cybersecurite/exercices/linux/wilders.csv > /Users/servanne/Nextcloud/SERY/Cybersecurite/exercices/linux/php_france_2019.csv
+  501  grep -E -i "Toulouse.*JavaScript|Biarritz.*JavaScript" /Users/servanne/Nextcloud/SERY/Cybersecurite/exercices/linux/wilders.csv > /Users/servanne/Nextcloud/SERY/Cybersecurite/exercices/linux/javascript_biarritz_toulouse.csv 
+  502  history | tail -n 6 > /Users/servanne/Nextcloud/SERY/Cybersecurite/exercices/linux/history.txt
+  503  history | tail -n 4 > /Users/servanne/Nextcloud/SERY/Cybersecurite/exercices/linux/history.txt
